@@ -5,14 +5,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.tetricuslabs.com.ico",
     "slug": "homepage",
     "status": "up",
-    "uptime": "56.84%",
+    "uptime": "56.94%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "51.72%",
-    "time": 347,
-    "timeDay": 392,
-    "timeWeek": 306,
+    "time": 346,
+    "timeDay": 175,
+    "timeWeek": 270,
     "timeMonth": 321,
     "timeYear": 354,
     "dailyMinutesDown": {
@@ -209,9 +209,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 234,
-    "timeDay": 340,
-    "timeWeek": 332,
-    "timeMonth": 275,
+    "timeDay": 232,
+    "timeWeek": 316,
+    "timeMonth": 277,
     "timeYear": 236,
     "dailyMinutesDown": {}
   },
@@ -221,15 +221,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.tetricuslabs.com.ico",
     "slug": "api",
     "status": "up",
-    "uptime": "90.85%",
+    "uptime": "90.88%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "89.77%",
     "time": 242,
-    "timeDay": 284,
-    "timeWeek": 215,
-    "timeMonth": 192,
+    "timeDay": 176,
+    "timeWeek": 207,
+    "timeMonth": 194,
     "timeYear": 250,
     "dailyMinutesDown": {
       "2023-08-27": 990,
@@ -267,8 +267,7 @@
       "2023-07-26": 1440,
       "2023-07-25": 1440,
       "2023-07-24": 1440,
-      "2023-07-23": 1440,
-      "2023-07-22": 1440
+      "2023-07-23": 1440
     }
   }
 ]
