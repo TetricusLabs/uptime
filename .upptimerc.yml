@@ -4,23 +4,23 @@ repo: uptime # The name of this repository
 
 sites:
   - name: Homepage
-    url: https://www.tetricuslabs.com
+    url: https://www.personily.com
   - name: App
-    url: http://app.tetricuslabs.com
+    url: http://app.personily.com
   - name: Api
-    url: https://api.tetricuslabs.com/healthy
+    url: https://api.personily.com/status/healthy
 assignees:
-  - nikkwong
   - lenmazzone
   - rwinslow
+  - rjleaf
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: demo.upptime.js.org
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Tetricus Labs Uptime
-  cname: uptime.tetricuslabs.com
+  name: Personily Uptime
+  cname: uptime.personily.com
   introTitle: "**Uptime Status:** Tetricus Labs"
   introMessage: Uptime Statistics for Tetricus Labs Services
   navbar:
