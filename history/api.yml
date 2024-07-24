@@ -1,7 +1,7 @@
-url: https://api.tetricuslabs.com/healthy
-status: up
-code: 200
-responseTime: 174
-lastUpdated: 2024-07-23T23:00:34.741Z
+url: https://api.personily.com/healthy
+status: down
+code: 404
+responseTime: 182
+lastUpdated: 2024-07-24T19:55:21.254Z
 startTime: 2023-06-07T17:00:06.000Z
 generator: Upptime <https://github.com/upptime/upptime>
