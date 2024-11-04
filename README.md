@@ -29,3 +29,20 @@ With [Upptime](https://upptime.js.org), you can get your own unlimited and free 
 - Powered by: [Upptime](https://github.com/upptime/upptime)
 - Code: [MIT](./LICENSE) © [Tetricus Labs](https://www.tetricuslabs.com/)
 - Data in the `./history` directory: [Open Database License](https://opendatacommons.org/licenses/odbl/1-0/)
+
+## FAQ
+
+### How do I update the personal access token for Uptime?
+1. Open Bitwarden and get the credentials for the Github Service Account
+2. Open a private browser window to Github.
+3. Login as the Github Service Account.
+4. Go to Account > Settings > Developer Settings > Personal Access Tokens > Fine-grained tokens.
+5. Click the `uptime` token.
+6. Click `Regenerate token` and choose the number of days to expiration.
+7. Click `Regenerate token`
+8. Copy the token to your clipboard.
+9. With your personal Github account, go to the [uptime](https://github.com/TetricusLabs/uptime) repo in Github.
+10. Go to Settings > Security > Secrets and variables > Actions
+11. Edit the `GH_PAT` by clicking the pencil icon.
+12. Paste the token you copied.
+13. Click `Update secret`.
