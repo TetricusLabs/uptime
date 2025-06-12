@@ -16,7 +16,7 @@
     "timeMonth": 327,
     "timeYear": 331,
     "dailyMinutesDown": {
-      "2025-06-12": 1097,
+      "2025-06-12": 1111,
       "2025-06-11": 1440,
       "2025-06-10": 1440,
       "2025-06-09": 1440,
@@ -270,9 +270,9 @@
     "slug": "app",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.06%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 235,
     "timeDay": 131,
@@ -280,7 +280,7 @@
     "timeMonth": 224,
     "timeYear": 238,
     "dailyMinutesDown": {
-      "2025-06-12": 0
+      "2025-06-12": 14
     }
   },
   {
@@ -288,19 +288,19 @@
     "url": "https://api.personily.com/status/healthy",
     "icon": "https://icons.duckduckgo.com/ip3/api.personily.com.ico",
     "slug": "api",
-    "status": "up",
+    "status": "down",
     "uptime": "51.05%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "11.53%",
-    "time": 291,
-    "timeDay": 162,
-    "timeWeek": 241,
-    "timeMonth": 1054,
-    "timeYear": 323,
+    "uptimeYear": "11.52%",
+    "time": 292,
+    "timeDay": 435,
+    "timeWeek": 300,
+    "timeMonth": 1044,
+    "timeYear": 324,
     "dailyMinutesDown": {
-      "2025-06-12": 1097,
+      "2025-06-12": 1111,
       "2025-06-11": 1440,
       "2025-06-10": 1440,
       "2025-06-09": 1440,
