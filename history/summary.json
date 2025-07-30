@@ -4,7 +4,7 @@
     "url": "https://www.personily.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.personily.com.ico",
     "slug": "homepage",
-    "status": "up",
+    "status": "down",
     "uptime": "40.29%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
@@ -16,7 +16,7 @@
     "timeMonth": 340,
     "timeYear": 332,
     "dailyMinutesDown": {
-      "2025-07-30": 980,
+      "2025-07-30": 1007,
       "2025-07-29": 1440,
       "2025-07-28": 1440,
       "2025-07-27": 1440,
@@ -328,7 +328,7 @@
     "timeMonth": 205,
     "timeYear": 233,
     "dailyMinutesDown": {
-      "2025-07-30": 980,
+      "2025-07-30": 1007,
       "2025-07-29": 1440,
       "2025-07-28": 1440,
       "2025-07-27": 1440,
@@ -396,7 +396,7 @@
     "timeMonth": 230,
     "timeYear": 328,
     "dailyMinutesDown": {
-      "2025-07-30": 980,
+      "2025-07-30": 1007,
       "2025-07-29": 1440,
       "2025-07-28": 1440,
       "2025-07-27": 1440,
