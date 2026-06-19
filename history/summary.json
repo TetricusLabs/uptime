@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.personily.com.ico",
     "slug": "homepage",
     "status": "up",
-    "uptime": "28.55%",
+    "uptime": "28.53%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 352,
-    "timeDay": 238,
-    "timeWeek": 275,
-    "timeMonth": 395,
-    "timeYear": 363,
+    "timeDay": 177,
+    "timeWeek": 265,
+    "timeMonth": 387,
+    "timeYear": 364,
     "dailyMinutesDown": {
-      "2026-06-18": 34,
+      "2026-06-19": 37,
+      "2026-06-18": 1440,
       "2026-06-17": 1440,
       "2026-06-16": 1440,
       "2026-06-15": 1440,
@@ -379,8 +380,7 @@
       "2025-06-23": 1440,
       "2025-06-22": 1440,
       "2025-06-21": 1440,
-      "2025-06-20": 1440,
-      "2025-06-19": 1440
+      "2025-06-20": 1440
     }
   },
   {
@@ -389,18 +389,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/app.personily.com.ico",
     "slug": "app",
     "status": "up",
-    "uptime": "66.53%",
+    "uptime": "66.47%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 222,
-    "timeDay": 272,
-    "timeWeek": 211,
-    "timeMonth": 198,
-    "timeYear": 219,
+    "timeDay": 152,
+    "timeWeek": 205,
+    "timeMonth": 196,
+    "timeYear": 218,
     "dailyMinutesDown": {
-      "2026-06-18": 34,
+      "2026-06-19": 37,
+      "2026-06-18": 1440,
       "2026-06-17": 1440,
       "2026-06-16": 1440,
       "2026-06-15": 1440,
@@ -763,8 +764,7 @@
       "2025-06-23": 1440,
       "2025-06-22": 1440,
       "2025-06-21": 1440,
-      "2025-06-20": 1440,
-      "2025-06-19": 1440
+      "2025-06-20": 1440
     }
   },
   {
@@ -773,18 +773,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.personily.com.ico",
     "slug": "api",
     "status": "up",
-    "uptime": "33.97%",
+    "uptime": "33.94%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 320,
-    "timeDay": 331,
-    "timeWeek": 336,
+    "timeDay": 314,
+    "timeWeek": 349,
     "timeMonth": 368,
     "timeYear": 268,
     "dailyMinutesDown": {
-      "2026-06-18": 34,
+      "2026-06-19": 37,
+      "2026-06-18": 1440,
       "2026-06-17": 1440,
       "2026-06-16": 1440,
       "2026-06-15": 1440,
@@ -1147,8 +1148,7 @@
       "2025-06-23": 1440,
       "2025-06-22": 1440,
       "2025-06-21": 1440,
-      "2025-06-20": 1440,
-      "2025-06-19": 1440
+      "2025-06-20": 1440
     }
   }
 ]
