@@ -1,7 +1,7 @@
 url: https://api.personily.com/status/healthy
-status: down
-code: 503
-responseTime: 165
-lastUpdated: 2026-09-06T23:37:46.968Z
+status: up
+code: 200
+responseTime: 254
+lastUpdated: 2026-09-06T23:43:10.855Z
 startTime: 2023-06-07T17:00:06.000Z
 generator: Upptime <https://github.com/upptime/upptime>
