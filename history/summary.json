@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.personily.com.ico",
     "slug": "homepage",
     "status": "up",
-    "uptime": "25.34%",
+    "uptime": "25.32%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 367,
-    "timeDay": 273,
-    "timeWeek": 301,
-    "timeMonth": 333,
-    "timeYear": 369,
+    "time": 366,
+    "timeDay": 262,
+    "timeWeek": 303,
+    "timeMonth": 337,
+    "timeYear": 368,
     "dailyMinutesDown": {
-      "2026-11-05": 5,
+      "2026-11-06": 5,
+      "2026-11-05": 1440,
       "2026-11-04": 1440,
       "2026-11-03": 1440,
       "2026-11-02": 1440,
@@ -379,8 +380,7 @@
       "2025-11-10": 1440,
       "2025-11-09": 1440,
       "2025-11-08": 1440,
-      "2025-11-07": 1440,
-      "2025-11-06": 1440
+      "2025-11-07": 1440
     }
   },
   {
@@ -389,18 +389,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/app.personily.com.ico",
     "slug": "app",
     "status": "up",
-    "uptime": "59.06%",
+    "uptime": "59.01%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 226,
-    "timeDay": 196,
-    "timeWeek": 268,
-    "timeMonth": 257,
-    "timeYear": 228,
+    "timeDay": 281,
+    "timeWeek": 273,
+    "timeMonth": 260,
+    "timeYear": 229,
     "dailyMinutesDown": {
-      "2026-11-05": 6,
+      "2026-11-06": 5,
+      "2026-11-05": 1440,
       "2026-11-04": 1440,
       "2026-11-03": 1440,
       "2026-11-02": 1440,
@@ -763,8 +764,7 @@
       "2025-11-10": 1440,
       "2025-11-09": 1440,
       "2025-11-08": 1440,
-      "2025-11-07": 1440,
-      "2025-11-06": 1440
+      "2025-11-07": 1440
     }
   },
   {
@@ -773,18 +773,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.personily.com.ico",
     "slug": "api",
     "status": "up",
-    "uptime": "30.15%",
+    "uptime": "30.13%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 291,
-    "timeDay": 459,
-    "timeWeek": 301,
-    "timeMonth": 318,
+    "timeDay": 288,
+    "timeWeek": 308,
+    "timeMonth": 316,
     "timeYear": 315,
     "dailyMinutesDown": {
-      "2026-11-05": 6,
+      "2026-11-06": 5,
+      "2026-11-05": 1440,
       "2026-11-04": 1440,
       "2026-11-03": 1440,
       "2026-11-02": 1440,
@@ -1147,8 +1148,7 @@
       "2025-11-10": 1440,
       "2025-11-09": 1440,
       "2025-11-08": 1440,
-      "2025-11-07": 1440,
-      "2025-11-06": 1440
+      "2025-11-07": 1440
     }
   }
 ]
